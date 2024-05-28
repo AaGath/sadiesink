@@ -1,24 +1,24 @@
 class script(object):  
-    START_TXT = """<b>✨ Hᴇʟʟᴏ {user}.
+    START_TXT = """<b> Hᴇʟʟᴏ {user} 👋.
 
-Mʏ Nᴀᴍᴇ Is {bot}.
+Mʏ Nᴀᴍᴇ Is {bot}🎈.
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ</b>"""
+I Wɪʟʟ Gɪᴠᴇ Mᴏᴠɪᴇs & Sᴇʀɪᴇs Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ ❤️‍🩹</b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
 ✯ Dᴇᴠᴇʟᴏᴩᴇʀ:<a href='https://t.me/Wireless_TG'>ᴡɪʀᴇʟᴇss 🇮🇳 I 🇮🇹</a> 
-✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
+✯ Lɪʙʀᴀʀʏ: Pʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴇᴜʀᴏᴘᴇ
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://dashboard.heroku.com/'>ʜᴇʀᴏᴋᴜ</a>
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ: ʜᴇʀᴏᴋᴜ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: ꜱᴀᴅɪᴇ-ʙᴏᴛ ᴠ4.5.0
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
    
     SOURCE_TXT = """<b>⚠️ NOTE: ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴄʀᴇᴀᴛᴇ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ.</b>
 
-⛓‍💥 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ  ◉› :<a href='https://t.me/Wireless_TG'>ꜱᴀᴅɪᴇ ꜱɪɴᴋ ʙᴏᴛ</a>
+⛓‍💥 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ  ◉› :<a href='https://t.me/Sadie_Sinkiee_Bot'>ꜱᴀᴅɪᴇ ꜱɪɴᴋ ʙᴏᴛ</a>
 
 <b>🕵️‍♂️ ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href='https://t.me/Wireless_TG'>ᴡɪʀᴇʟᴇss 🇮🇳 I 🇮🇹</a> </b>"""
 
