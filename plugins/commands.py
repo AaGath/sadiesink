@@ -38,7 +38,7 @@ async def start(client, message):
             InlineKeyboardButton("➕ Add Me To Your Group ➕", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ ⛓‍💥", url="https://t.me/Wireless_TG"), 
-            InlineKeyboardButton("My Group 🫂", url="https://t.me/+1NprlFgHxQQxOTg1")
+            InlineKeyboardButton("Mʏ Gʀᴏᴜᴘ 🫂", url="https://t.me/+1NprlFgHxQQxOTg1")
             ],[      
             InlineKeyboardButton("Hᴇʟᴩ 🕸️", callback_data="help"),
             InlineKeyboardButton("Aʙᴏᴜᴛ ✨", callback_data="about")
@@ -55,13 +55,15 @@ async def start(client, message):
             await ForceSub(client, message)
             return
         buttons = [[
-            InlineKeyboardButton("Movies Channel 🔎", url="https://t.me/+64hOQOdcbq41M2U1")
+            InlineKeyboardButton("➕ Add Me To Your Group ➕", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ ⛓‍💥", url="https://t.me/Wireless_TG"), 
-            InlineKeyboardButton("New Movies 🗂", url="https://t.me/+OPwAXqLk8x45OTQ1")
+            InlineKeyboardButton("Mʏ Gʀᴏᴜᴘ 🫂", url="https://t.me/+1NprlFgHxQQxOTg1")
             ],[      
             InlineKeyboardButton("Hᴇʟᴩ 🕸️", callback_data="help"),
             InlineKeyboardButton("Aʙᴏᴜᴛ ✨", callback_data="about")
+            ],[ 
+            InlineKeyboardButton("Main Channel 🏷", url="https://t.me/+64hOQOdcbq41M2U1")
         ]]
         m = await message.reply_sticker("CAACAgUAAxkBAAEBvlVk7YKnYxIHVnKW2PUwoibIR2ygGAACBAADwSQxMYnlHW4Ls8gQHgQ")
         await asyncio.sleep(2)
