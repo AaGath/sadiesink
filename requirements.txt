@@ -2,3 +2,4 @@ pyrotgfork
 tgcrypto
 dnspython
 motor
+pytz
